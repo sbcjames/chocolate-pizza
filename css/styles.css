@@ -1,3 +1,92 @@
-* {
-  color: red;
+body {
+  margin-left: 250px;
+  margin-right: 290px;
 }
+
+.name {
+  font-family: cursive;
+  font-size: 1.7em;
+  line-height: .1;
+
+  }
+  .header {
+    width 100px;
+
+  
+    }
+  }
+
+
+  .soc {
+    display: flex;
+    float: right;
+    margin-top: 45px;
+    position: absolute;
+   
+
+    }
+
+  .bf {
+    font-family: 'Open Sans Condensed', sans-serif;
+    line-height: -10;
+    }
+
+#logo {
+  float: left;
+  margin-right: 5px;
+}
+#hero {
+  margin: 2px;
+}
+
+#cp {
+  font-family: 'Bebas Neue', cursive;
+  line-height: -10px;
+}
+
+#small-print {
+  font-family: 'Open Sans Condensed', sans-serif;
+  float: right;
+  color: gray;
+  diplay: inline;
+  font-size: .5em;
+
+}
+#paper {
+  background-image: url("img/list-bg.png");
+}
+
+#content {
+  font-family: times;
+  font-size: 1em;
+  color: gray;
+}
+
+#print {
+  font-family: 'Open Sans Condensed', sans-serif;
+  float: right;
+  width: 5px;
+}
+
+#list1 {
+float: left;
+width: 400px;
+}
+
+#list2 {
+  float: right;
+  width: 400px;
+  }
+
+
+
+#bf2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: -10px;
+  
+  }
+
+  nav {
+    float: right;
+  }
+
